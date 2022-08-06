@@ -380,6 +380,7 @@ ns01.dns.lab.           3600    IN      A       192.168.50.10
 ;; WHEN: Sat Aug 06 09:52:58 UTC 2022
 ;; MSG SIZE  rcvd: 96
 ```
+![Screenshot](https://github.com/jimidini77/otus-linux-day17/blob/main/Screenshot.png?raw=true)
 
 # **Результаты**
 Выполнен запуск nginx на нестандартном порту
